@@ -15,7 +15,7 @@
 - [Results](#results)
 
 ## Introduction
-The Attendance System is a face recognition-based system developed during the Machine Learning Internship at Diffuse AI. The system is designed to automate the attendance process by using face recognition to log staff members' attendance. It operates daily from 8 AM to 6 PM, capturing attendance details such as date, name, and time (both "In" and "Out"). The system records this information in CSV files named by the date, and the admin can view attendance records through the Admin page.
+The Attendance System is a face recognition-based system developed during the Machine Learning Internship at Diffuse AI. The system is designed to automate the attendance process by using face recognition to log staff members' attendance. It capturing attendance details such as date, name, and time (both "In" and "Out"). The system records this information in CSV files named by the date, and the admin can view attendance records through the Admin page.
 
 ## Technologies Used
 - **HTML**: For structuring the web pages.
