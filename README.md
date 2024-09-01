@@ -58,7 +58,7 @@ To set up the Attendance System on your local machine, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/attendance-system.git
+   git clone https://github.com/a1n13a1n13d4/REPO1.ANAND.Face_Dec_Rec.git
    cd attendance-system
    ```
 
